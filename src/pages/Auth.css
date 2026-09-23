@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+    height: 100%;
+    width: 100%;
+    background-color: #FFFDFB;
+    font-family: 'Inter', sans-serif;
+    color: #1a1a1a;
+    overflow-x: hidden;
+}
+
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.cl-rootBox {
+    margin: auto;
+}
+
+.auth-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    background-color: #FFFDFB;
+}
+
+.cl-formButtonPrimary {
+    background-color: #FF4F00 !important;
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+}
+
+.cl-formButtonPrimary:hover {
+    background-color: #e64600 !important;
+}
+
+.cl-card {
+    border: 1px solid #f2f2f2 !important;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.02) !important;
+    border-radius: 12px !important;
+}
+
+.cl-headerTitle {
+    font-family: 'Playfair Display', serif !important;
+    font-size: 1.8rem !important;
+    color: #1a1a1a !important;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: none;
+}
