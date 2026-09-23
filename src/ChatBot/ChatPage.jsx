@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react"
 
-const START_API = "https://gifteasy-model.onrender.com/chat/start"
-const CHAT_API = "https://gifteasy-model.onrender.com/chat/message"
+const START_API = "https://velora-ai-model.onrender.com/chat/start"
+const CHAT_API = "https://velora-ai-model.onrender.com/chat/message"
 
 const RELATION_CHIPS = [
     "Mother", "Father", "Sister", "Brother", "Girlfriend", "Boyfriend",
