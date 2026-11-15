@@ -114,7 +114,7 @@ const handleGetStarted = (role) => {
 
                         <div className="space-y-4 max-w-sm">
                             <div className="inline-block px-3 py-1 rounded-full bg-red-100 text-red-700 text-xs font-bold tracking-widest">
-                                Welcome to Gifteasy
+                                Welcome to Velora AI Gifting
                             </div>
 
                             <h1 className="text-3xl font-bold leading-tight">

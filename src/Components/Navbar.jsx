@@ -339,11 +339,11 @@ export default function Navbar() {
         <>
             <div className="w-full bg-[#7c1c1c] text-white text-[11px] sm:text-[12px] tracking-widest uppercase py-2 px-3 overflow-x-auto">
                 <div className="flex items-center justify-center gap-3 whitespace-nowrap min-w-max">
-                    <span>New York, America</span>
+                    <span>Neemuch, Madhya Pradesh</span>
                     <span className="opacity-40">|</span>
-                    <span>Contact <span className="font-bold text-[#ffcfcf]">+91 9000458514</span></span>
+                    <span>Contact <span className="font-bold text-[#ffcfcf]">+91 9098717175</span></span>
                     <span className="opacity-40">|</span>
-                    <span className="flex items-center gap-2"><Mail size={11} />Info@Mail.com</span>
+                    <span className="flex items-center gap-2"><Mail size={11} />Joshitushal1@com</span>
                 </div>
             </div>
 

@@ -21,7 +21,7 @@ export default function Login() {
           <div className="hidden md:flex w-[42%] bg-[#0d0a0a] text-white flex-col justify-between p-8">
             
             <div>
-              <h2 className="text-xl font-bold tracking-wide">Gifteasy</h2>
+              <h2 className="text-xl font-bold tracking-wide">Velora</h2>
               <p className="text-xs mt-2 text-gray-400 tracking-widest">AI GIFTING</p>
             </div>
 
