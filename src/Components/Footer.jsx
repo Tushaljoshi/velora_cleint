@@ -99,7 +99,7 @@ export default function Footer() {
                 </div>
 
                 <div className="border-t border-white/8 mt-8 pt-5 flex flex-col md:flex-row items-center justify-between gap-3">
-                    <p className="text-white/20 text-[11px]">© 2026 Velora AI. All rights reserved.</p>
+                    <p className="text-white/20 text-[11px]">© 2026 Valora AI. All rights reserved.</p>
                     <div className="flex gap-4">
                         {["Privacy", "Terms", "Cookies"].map((l) => (
                             <a key={l} href="#" className="text-white/20 hover:text-white/45 text-[11px] transition-colors">{l}</a>
